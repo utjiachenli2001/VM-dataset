@@ -1,0 +1,10 @@
+# Core dependencies
+numpy==1.26.4
+Pillow==10.4.0
+pydantic==2.10.5
+
+# Video generation
+opencv-python==4.10.0.84
+
+# Block stacking task has no additional dependencies
+# All rendering is done with Pillow
